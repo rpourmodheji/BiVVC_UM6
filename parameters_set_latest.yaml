@@ -1,0 +1,33 @@
+E_esLV : 680.0
+outdir : "./working3/"
+BiVMeshfilename : "./mesh/UM1.hdf5"
+BiVcasename : "UM1"
+AortaMeshfilename : "aorta.hdf5"
+Aortacasename : "aorta"
+PAMeshfilename : "PA.hdf5"
+PAcasename : "PA"
+AOActroid : [14.9116, 27.9676, 18.3229]
+AODctroid : [17.9571, 75.5040, 0.322127]
+MPActroid : [46.4036, 21.3269, 9.35497]
+LPActroid : [3.00983, 50.9267, 20.3678]
+RPActroid : [35.9855, 73.7317, 34.7942]
+TLV : 2000.0e3
+TRV : 2200.0e3
+Clv : 0.13e2
+Crv : 0.53e2
+Csep : 0.13e2
+Cven : 0.02
+Cpu : 0.09
+Vpu0 : 415.0
+Vven0 : 3675.0
+V_ven : 3641
+Vpu : 484.68
+V_LA : 25.3
+V_RA : 26.13
+Rper : 135000.0
+Rpul : 120000.0
+LV loading increment step: 3.0
+RV loading increment step: 2.2
+plot BiV Deformation : False
+plot aorta Deformation : True
+plot PA Deformation : True

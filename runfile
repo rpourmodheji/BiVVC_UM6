@@ -1,0 +1,1 @@
+docker run -ti --name CL_MEMBRANE -v $(pwd):/home/fenics/shared -w /home/fenics/shared fenics_msucompbiomechlab:v3_sundials 
