@@ -1,17 +1,17 @@
 ############# Aorta  #################
-R_AO : 20000.0     #Pa-ms-ml^-1
+R_AO : 60000.0     #Pa-ms-ml^-1
 ############ Peripheral ###############
-R_per : 20000.0  #Pa-ms-ml^-1
+R_per : 160000.0  #Pa-ms-ml^-1
 ############ Veins ####################
-R_sv : 20000.0    #Pa-ms-ml^-1
+R_sv : 40000.0    #Pa-ms-ml^-1
 ############ Tricuspid ################
 R_tr  : 2000.0    #Pa-ms-ml^-1
 ############ Pulmonary Valve ##########
 R_pv  : 2000.0    #Pa-ms-ml^-1
 ############ Capillary Pulmonary ######
-R_pc  : 20000.0    #Pa-ms-ml^-1
+R_pc  : 80000.0    #Pa-ms-ml^-1
 ############ Capillary Pulmonary ######
-R_cp  : 20000.0    #Pa-ms-ml^-1
+R_cp  : 60000.0    #Pa-ms-ml^-1
 ############ Pulmonary Veins ##########
 R_cv  : 20000.0    #Pa-ms-ml^-1
 ############ Mitral ###################
